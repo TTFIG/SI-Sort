@@ -1,5 +1,6 @@
 package cn.itcyt.java.circlequeue;
 
+import java.awt.*;
 import java.util.Scanner;
 
 public class CircleQueueArrayDemo {
